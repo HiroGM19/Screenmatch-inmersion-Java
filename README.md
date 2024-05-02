@@ -10,7 +10,7 @@ Usamos tambien sout como abrevitura para escribir la siguiente linea de codigo:
 ![image](https://github.com/HiroGM19/Screenmatch-inmersion-Java/assets/108554722/b2e3e9a3-ccac-46f7-848d-22a605f181a3)
 
 # for ✔
-utilizamos **for** para poder hacer un tipo de bucle en donde nos pueda sacar un promedio de notas.
+utilizamos **for** para poder hacer un tipo de bucle en donde nos pueda devolver un promedio de notas.
 
 ![image](https://github.com/HiroGM19/Screenmatch-inmersion-Java/assets/108554722/8161556d-7c68-4162-bc15-51c3526e2570)
 
