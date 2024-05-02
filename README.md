@@ -22,6 +22,6 @@ y asi se veria en la consola:
 
 # Asignacion ✨
 
-La asignacion que se nos solicitud fue crear un bucle pero con un tipo **while** transformando el tipo **for** y asi fue como lo resolvi, solo adjunto una captura de como se veria el codigo ya que la representacion en la consola seria la misma que con el metodo **for**.
+La asignacion que se nos solicito fue crear un bucle pero con un tipo **while** transformando el tipo **for** y asi fue como lo resolvi, solo adjunto una captura de como se veria el codigo ya que la representacion en la consola seria la misma que con el metodo **for**.
 
 ![image](https://github.com/HiroGM19/Screenmatch-inmersion-Java/assets/108554722/901b59b5-b5bb-4733-a26c-20fce55338d5)
